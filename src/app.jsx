@@ -12,7 +12,7 @@ function App() {
     <FeedbackProvider>
       <Router>
         <Header />
-        <div className='container'>
+        <div className='containe'>
           <Routes>
             <Route
               exact
